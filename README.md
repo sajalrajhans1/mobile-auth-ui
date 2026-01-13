@@ -26,10 +26,10 @@ Full credit for original UI concept goes to the designer.
 ## 🧪 Screenshots
 
 <h3>Login Screen</h3>
-<img src="screenshots/login.jpeg" width="150"/>
+<img src="screenshots/login.jpeg" width="200"/>
 
 <h3>Signup Screen</h3>
-<img src="screenshots/signup.jpeg" width="150"/>
+<img src="screenshots/signup.jpeg" width="200"/>
 
 ---
 
